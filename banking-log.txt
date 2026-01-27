@@ -1,0 +1,10 @@
+[03:39:27 PM] *** System Started ***
+[03:39:44 PM] ACTION: Deposit       | Amount: +1,00,00,000.00 | Balance: 1,00,00,000.00
+[03:39:55 PM] System Exit.
+--------------------------
+[03:41:56 PM] *** System Started ***
+[03:42:06 PM] ACTION: Deposit       | Amount: +₹1,00,000.00 | Balance: ₹1,00,000.00
+[03:42:14 PM] ACTION: Withdraw      | Amount: -₹12,122.00 | Balance: ₹87,878.00
+[03:42:20 PM] ACTION: Check Balance | Balance: ₹87,878.00
+[03:43:10 PM] System Exit.
+--------------------------
