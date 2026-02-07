@@ -43,7 +43,7 @@ A collection of fun and educational C programming projects. These projects are g
 ### Prerequisites
 
 - GCC compiler (MinGW on Windows, or any C compiler) for C projects.
-- G++ or equivalent for future C++ projects.
+- G++ or equivalent for C++ projects.
 
 ### Compilation
 
