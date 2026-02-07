@@ -106,7 +106,7 @@ Feel free to use these projects for learning and personal use!
 
 ## Author
 
-Made by [toxicbishop](https://github.com/toxicbishop)
+Made by ![favicon](favicon-96x96.png) [toxicbishop](https://github.com/toxicbishop)
 
 ⭐ **Star this repo if you found it helpful!**
 ---
