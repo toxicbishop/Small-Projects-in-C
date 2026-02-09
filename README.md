@@ -13,6 +13,7 @@ A collection of fun and educational C programming projects. These projects are g
 | **Banking System**               | A simple banking system with account management          | `C/Banking-System/`               |
 | **Quiz Game**                    | Test your knowledge with an interactive quiz             | `C/Quiz-Game/`                    |
 | **Circle Program**               | Calculate circle properties (area, circumference, etc.)  | `C/Circle-Program/`               |
+| **Tic-Tac-Toe**                  | Classic game with PvP and smart AI opponent              | `C/Tic-Tac-Toe/`                  |
 
 ## 📂 Project Structure
 
@@ -26,7 +27,8 @@ A collection of fun and educational C programming projects. These projects are g
 │   ├── 📁 Rock-Paper-Scissors/
 │   ├── 📁 Banking-System/
 │   ├── 📁 Quiz-Game/
-│   └── 📁 Circle-Program/
+│   ├── 📁 Circle-Program/
+│   └── 📁 Tic-Tac-Toe/
 │
 ├── 📁 C++
 │   ├── 📁 Compound-Interest-Calculator/
@@ -35,7 +37,8 @@ A collection of fun and educational C programming projects. These projects are g
 │   ├── 📁 Rock-Paper-Scissors/
 │   ├── 📁 Banking-System/
 │   ├── 📁 Quiz-Game/
-│   └── 📁 Circle-Program/
+│   ├── 📁 Circle-Program/
+│   └── 📁 Tic-Tac-Toe/
 ```
 
 ## 🛠️ How to Compile and Run
