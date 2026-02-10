@@ -32,6 +32,7 @@ A collection of fun and educational C programming projects. These projects are g
 │   ├── 📁 Circle-Program/
 │   ├── 📁 Tic-Tac-Toe/
 │   └── 📁 Caesar-Cipher/
+│   └── 📁 Currency Converter/
 │
 ├── 📁 C++
 │   ├── 📁 Compound-Interest-Calculator/
@@ -43,6 +44,7 @@ A collection of fun and educational C programming projects. These projects are g
 │   ├── 📁 Circle-Program/
 │   ├── 📁 Tic-Tac-Toe/
 │   └── 📁 Caesar-Cipher/
+│   └── 📁 Currency Converter/
 ```
 
 ## 🛠️ How to Compile and Run
