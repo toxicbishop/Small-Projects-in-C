@@ -15,6 +15,7 @@ A collection of fun and educational C programming projects. These projects are g
 | **Circle Program**               | Calculate circle properties (area, circumference, etc.)  | `C/Circle-Program/`               |
 | **Tic-Tac-Toe**                  | Classic game with PvP and smart AI opponent              | `C/Tic-Tac-Toe/`                  |
 | **Caesar Cipher**                | File encryption/decryption using Caesar Cipher algorithm | `C/Caesar-Cipher/`                |
+| **Currency Converter**           | Convert between 15 world currencies with live rates      | `C/Currency-Converter/`           |
 
 ## 📂 Project Structure
 
